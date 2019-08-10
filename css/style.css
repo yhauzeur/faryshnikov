@@ -1,0 +1,152 @@
+#headerImage	{
+	min-height: 350px;
+	height: 600px;
+	background-image: url("../images/header.jpg");
+	background-position: top;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	}
+
+#Box2	{
+	margin-top: 20px;
+}
+
+#logoImage	{
+	width: 350px;
+	margin-top: 30px;
+	min-width: 150px;
+}
+
+#socialMediaIcons	{
+	color: #fff;
+	text-align: center;
+	padding-top: 30px;
+	padding-left: 1.5%;
+	padding-right: 1.5%;
+}
+
+#descripcionBallet	{
+	color: #fff;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 2rem;
+}
+
+#imgLinea	{
+	padding: 5px;
+}
+
+#fbBox	{
+	margin-top: 25px;
+}
+
+#menu	{
+	text-align: center;
+	color: #9a223e;
+	padding-bottom: 10px;
+	box-shadow: 0px 5px 5px #888888;
+}
+
+#menuTop	{
+	margin-top: 10px;
+}
+
+#menuIcons	{
+	padding-top: 20px;
+}
+
+#ImgPadding	{
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+#SomosFaryshnikov	{
+	background-color: #9a223e;
+	width:100%;
+	color: #fff;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	margin-top: 20px;
+}
+
+#ytVideo	{
+	margin-top: 20px;
+	min-height: 10px;
+}
+
+#somosFar	{
+	min-height: 350px;
+	height: 500px;
+	background-image: url("../images/about.jpg");
+	background-position: top;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+#somosTxt	{
+	padding-top: 130px;
+	padding-right: 5%;
+	padding-left: 5%;
+	color: #604725;
+}
+
+.alert.button {
+	/*background-color: #9a223e; #2199e9*/
+}
+
+.space	{
+	margin-top: 50px;
+	padding-top 50px;
+}
+
+.PortCenter	{
+	text-align: center;
+}
+
+#RSS	{
+	margin-top: 30px;
+}
+
+.LosLineamientos	{
+	margin-top: 40px;
+	text-align: center;
+}
+
+#letras	{
+	color: #9a223e;
+}
+
+#letrasyTexto	{
+	text-align: justify;
+}
+
+#space	{
+	margin-top: 20px;
+	padding-top: 20px;
+}
+
+/* test */ 
+.button {
+    width: auto;
+    height: auto;
+    background: red;
+    position :relative;
+    -webkit-animation: mymove 3s infinite; /* Safari 4.0 - 8.0 */
+    animation: mymove 8s infinite;
+}
+
+// /* Safari 4.0 - 8.0 */
+// @-webkit-keyframes mymove {
+//     0%   {top: 0px;}
+//     25%  {top: 25px;}
+//     75%  {top: 75px}
+//     100% {top: 100px;}
+// }
+
+// /* Standard syntax */
+// @keyframes mymove {
+//     0%   {top: 0px;}
+//     25%  {top: 25px;}
+//     75%  {top: 75px}
+//     100% {top: 100px;}
+// }
